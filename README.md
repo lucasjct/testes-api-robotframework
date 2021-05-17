@@ -15,4 +15,6 @@ Os testes verificam conteúdo e status de chamadas para a [API do GitHub](https:
 
 ***
 
-Para mais detalhes, consulte a documentação da RequestLibrary em: https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
+Para mais detalhes, consulte a documentação da RequestLibrary em: 
+
+https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
